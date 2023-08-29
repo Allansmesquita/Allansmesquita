@@ -47,17 +47,18 @@ Already done ✅: Java COMPLETO 2023 Programação Orientada a Objetos (54h) (Pr
 
 <div>
   <a href="https://github.com/Allansmesquita/Projeto-Aplicacao-Desktop-JavaFx">
-  <img height=150 align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=Projeto-Aplicacao-Desktop-JavaFx&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
+  <img align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=Projeto-Aplicacao-Desktop-JavaFx&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
   </a>  
   <a href="https://github.com/Allansmesquita/nlw-spacetime">
-  <img height=150 align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=nlw-spacetime&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
+  <img align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=nlw-spacetime&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
+  </a>
+  <a href="https://github.com/Allansmesquita/MD-Relics">
+  <img align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=MD-Relics&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
   </a>
   <a href="https://github.com/Allansmesquita/pancake.protectors">
-  <img height=150 align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=pancake.protectors&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
+  <img align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=pancake.protectors&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
   </a>  
-  <a href="https://github.com/Allansmesquita/MD-Relics">
-  <img height=150 align= center src=https://github-readme-stats.vercel.app/api/pin/?username=Allansmesquita&repo=MD-Relics&bg_color=000&hide_border=true&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
-  </a>
+  
 </div>
 
 
