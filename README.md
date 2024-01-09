@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 Olá! Eu sou Allan Mesquita e estou desbravando um mundo novo de conhecimento na area da programação!
 
-Now ON 🚀: Santander Bootcamp 2023 (Trilha: Fullstack Java+Angular)
+⏳: Coding The Future NTT Data - Desenvolvimento BackEnd com Kotlin
 
-Already done ✅: Java COMPLETO 2023 Programação Orientada a Objetos (54h) (Prof. Dr. Nélio Alves)
+✅: Santander Bootcamp 2023 (Trilha: Fullstack Java+Angular)
+
+✅: Java COMPLETO 2023 Programação Orientada a Objetos (54h) (Prof. Dr. Nélio Alves)
 
 ## Conecte-se comigo
 <div>
